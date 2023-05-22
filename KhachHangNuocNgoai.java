@@ -1,5 +1,4 @@
 
-package newpackage1;
 
 class KhachHangNuocNgoai extends HoaDon {
     private String quocTich;
