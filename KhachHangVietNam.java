@@ -1,5 +1,4 @@
 
-package newpackage1;
 
 class KhachHangVietNam extends HoaDon {
     private String doiTuongKhachHang;
