@@ -1,6 +1,4 @@
 
-package newpackage1;
-
 class HoaDon {
     protected String maKhachHang;
     protected String hoTen;
